@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nestel/dotplp/Kings/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nestel/dotplp/Kings/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f3434690e4f0380d2503d16c9121559ae17a58fe.jar" />
+    </item>
+    <item
+        jar="/home/nestel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/nestel/dotplp/Kings/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d342f7f7f7bc60685354b32a93fab5cc07339b06.jar" />
+    </item>
+    <item
+        jar="/home/nestel/dotplp/Kings/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nestel/dotplp/Kings/app/build/intermediates/pre-dexed/debug/classes-a012a603529c4265c29c7f1a76b83efb637ff9ce.jar" />
+    </item>
+    <item
+        jar="/home/nestel/dotplp/Kings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nestel/dotplp/Kings/app/build/intermediates/pre-dexed/debug/classes-7bcd76ad7870681247e48ec3db488aa5d0b21030.jar" />
+    </item>
+
+</items>
